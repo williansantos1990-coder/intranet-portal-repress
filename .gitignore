@@ -1,0 +1,18 @@
+# Ambiente virtual do Python
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Credenciais e senhas (ALTAMENTE SENSÍVEL)
+.env
+
+# Logs de sistema
+logs_erros
+logs_saida
+*.log
+
+# Pastas de downloads locais ou temporárias
+downloads/

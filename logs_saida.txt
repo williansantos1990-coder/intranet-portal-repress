@@ -1,0 +1,232 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+
+  A new version of Streamlit is available.
+
+  See what's new at https://discuss.streamlit.io/c/announcements
+
+  Enter the following command to upgrade:
+  $ pip install streamlit --upgrade
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+
+  A new version of Streamlit is available.
+
+  See what's new at https://discuss.streamlit.io/c/announcements
+
+  Enter the following command to upgrade:
+  $ pip install streamlit --upgrade
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+
+  A new version of Streamlit is available.
+
+  See what's new at https://discuss.streamlit.io/c/announcements
+
+  Enter the following command to upgrade:
+  $ pip install streamlit --upgrade
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+
+  A new version of Streamlit is available.
+
+  See what's new at https://discuss.streamlit.io/c/announcements
+
+  Enter the following command to upgrade:
+  $ pip install streamlit --upgrade
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+Erro interno ao tentar enviar convite para o Outlook: This API key is not authorized to send emails from reservas.repress.com.br
+Erro interno ao tentar enviar convite para o Outlook: This API key is not authorized to send emails from reservas.repress.com.br
+Erro interno ao tentar enviar convite para o Outlook: This API key is not authorized to send emails from reservas.repress.com.br
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
+  Stopping...
+Deseja finalizar o arquivo em lotes (S/N)? 
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://192.168.2.102:8500
+  External URL: http://177.126.0.234:8500
+
